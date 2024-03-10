@@ -1,0 +1,35 @@
+[
+    {
+    "name": "Darth Vader",
+    "photo": "https://vignette.wikia.nocookie.net/starwars/images/6/6f/Darth_Vader_TESB.png/revision/latest?cb=20160908003457",
+    "scores": [
+        5,
+        1,
+        4,
+        4,
+        5,
+        1,
+        2,
+        5,
+        4,
+        1
+    ]
+    },
+    {
+    "name": "Luke Skywalker",
+    "photo": "https://vignette.wikia.nocookie.net/starwars/images/2/20/LukeTLJ.jpg/revision/latest?cb=20171215004157",
+    "scores": [
+        3,
+        2,
+        6,
+        4,
+        5,
+        1,
+        2,
+        5,
+        4,
+        1
+    ]
+    }
+]
+
